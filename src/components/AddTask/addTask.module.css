@@ -1,0 +1,32 @@
+.addTask {
+  /* Sample */
+}
+.todoForm{
+  width: 20%;
+  margin: auto;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 20px;
+}
+
+.firstdiv input{
+  width: 200px;
+padding: 10px;
+outline: none;
+border: none;
+}
+.firstdiv button{
+  width: 20px;
+  border: none;
+  color: blue;
+  font-size: 25px;
+  cursor: pointer;
+padding: 10px 10px;
+outline: none;
+}
+.seconddiv{
+  margin: 10px;
+}
+.seconddiv div{
+  text-transform: capitalize;
+  margin: 10px;
+}
